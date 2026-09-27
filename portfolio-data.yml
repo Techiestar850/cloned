@@ -1,0 +1,73 @@
+site:
+  name: David Akimara
+  title: David Akimara — Portfolio
+  monogram: DA
+  location: Nairobi, Kenya
+
+hero:
+  title: Certified Freelancer
+  summary: A multidisciplinary freelancer offering academic writing, copywriting, data entry, AI training and data annotation support.
+
+about:
+  - I am David Akimara, a student and certified freelancer developing practical skills across writing, research, digital work and AI-related services.
+  - My portfolio brings together academic writing, copywriting, data entry, data annotation and other online freelance capabilities, with an emphasis on accuracy, clear communication and dependable delivery.
+
+skills:
+  - Academic Writing
+  - Copywriting
+  - Research
+  - Data Entry
+  - Data Annotation
+  - AI Training
+  - Content Writing
+  - Proofreading
+  - Web Research
+  - HTML & CSS
+
+experience:
+  - title: Freelance Writing & Digital Work
+    org: Independent Freelancer
+    period: Current
+    text: Academic writing, content development, research, data-focused tasks and digital freelance projects.
+  - title: AI / Data Training Practice
+    org: Independent Projects
+    period: Current
+    text: Building practical experience with data annotation, labeling, transcription and related AI-training workflows.
+
+education:
+  - title: Bachelor of Dental Surgery (BDS)
+    org: Dental education
+    period: Current — 3rd Year
+    text: Undergraduate dental studies with continuing development in biomedical and clinical sciences.
+
+projects:
+  - title: Freelance Portfolio Website
+    text: A responsive GitHub Pages portfolio for presenting freelance services, skills and work samples.
+    link: https://techiestar850.github.io/tecky/
+  - title: Academic Writing Samples
+    text: Structured academic assignments and research-based writing developed using formal academic conventions.
+    link: "#contact"
+  - title: AI & Data Work Samples
+    text: Practice projects covering data labeling, annotation, transcription and related AI-training workflows.
+    link: "#contact"
+
+tools:
+  - name: Microsoft Word / WPS Office
+    level: Writing & document production
+  - name: GitHub & GitHub Pages
+    level: Version control and web publishing
+  - name: HTML / CSS / JavaScript
+    level: Web development fundamentals
+  - name: YAML
+    level: Structured portfolio/configuration data
+  - name: AI tools
+    level: Research, drafting and productivity workflows
+
+contact:
+  - label: Location
+    value: Nairobi, Kenya
+  - label: Portfolio
+    value: techiestar850.github.io/tecky/
+    href: https://techiestar850.github.io/tecky/
+  - label: Availability
+    value: Open to freelance opportunities
